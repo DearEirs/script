@@ -1,6 +1,6 @@
-#!/usr/bin/python
+﻿#!/usr/bin/python
 #coding: utf-8  
-#Author:Ken
+#Author:Dear
 #检测服务器硬盘使用情况
 
 import paramiko 
